@@ -90,16 +90,16 @@ h6 {
   z-index: 997;
   transition: all 0.5s;
   padding: 10px 0;
-  background: #000;
+  background: #46423b;
 }
 
 #header.header-transparent {
-  background: #000;
+  background: #46423b;
 }
 
 #header.header-scrolled {
   top: 0;
-  background: #000;
+  background: #46423b;
 }
 
 #header .logo h1 {
